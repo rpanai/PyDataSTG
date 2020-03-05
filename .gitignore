@@ -1,0 +1,14 @@
+fo/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in Python, the following would be a good set of
+# https://github.com/github/gitignore/blob/master/Python.gitignore
+
+__pycache__/
+*.py[cod]
+*.pyc
+*.so
+*.swp
+*.csv
+**.gz
+*.parquet
+**/.ipynb_checkpoints/
