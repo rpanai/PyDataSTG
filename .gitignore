@@ -12,4 +12,5 @@ __pycache__/
 **.gz
 *.parquet
 **/.ipynb_checkpoints/
-**dask-worker
+dask-worker-space
+
