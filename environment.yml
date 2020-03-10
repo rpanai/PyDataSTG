@@ -1,0 +1,11 @@
+name: pydata_stg
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - dask=2.11.0
+  - pyarrow=0.16.0
+  - python-graphviz=0.13.2
+  - holidays=0.10.1
+  - ipykernel=5.1.4
+
